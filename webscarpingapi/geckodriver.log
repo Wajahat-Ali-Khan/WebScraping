@@ -1,0 +1,450 @@
+1652378848811	geckodriver	INFO	Listening on 127.0.0.1:39501
+1652378849318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8d2Jnp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652378851260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8d2Jnp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33649/devtools/browser/944d45cb-b2da-443c-8ed0-e354ec9efb2f
+1652378853152	Marionette	INFO	Listening on port 42771
+Read port: 42771
+1652378853247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1652379046255	geckodriver	INFO	Listening on 127.0.0.1:41669
+1652379046761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXaIpxJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652379048715	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXaIpxJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52243/devtools/browser/579ef69a-8cff-4936-a301-806db69a21bf
+1652379050183	Marionette	INFO	Listening on port 37943
+Read port: 37943
+1652379050285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652379051333	Marionette	INFO	Stopped listening on port 42771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PRemoteWorkerService::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1652379284941	geckodriver	INFO	Listening on 127.0.0.1:42415
+1652379285449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejcbjLo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652379287380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejcbjLo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39357/devtools/browser/8066ca7b-6bfd-44c6-8fe9-75a2bab389c6
+1652379288878	Marionette	INFO	Listening on port 39105
+Read port: 39105
+1652379288974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652379291675	Marionette	INFO	Stopped listening on port 37943
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1652379371714	geckodriver	INFO	Listening on 127.0.0.1:57433
+1652379372219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSFyohb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652379374151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSFyohb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37223/devtools/browser/60c2073f-2af5-42f9-9705-7d4055b3d908
+1652379375539	Marionette	INFO	Listening on port 41321
+Read port: 41321
+1652379375644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652379380019	Marionette	INFO	Stopped listening on port 39105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652379382036	Marionette	INFO	Stopped listening on port 41321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652379462223	geckodriver	INFO	Listening on 127.0.0.1:50335
+1652379462730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyysoFF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652379464659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyysoFF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39149/devtools/browser/d588eb95-b151-4ec7-a9bb-1d299e9d113a
+1652379466122	Marionette	INFO	Listening on port 39265
+Read port: 39265
+1652379466156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1652379974164	geckodriver	INFO	Listening on 127.0.0.1:41943
+1652379974668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLoNJXY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652379976617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLoNJXY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59095/devtools/browser/8defdb64-0016-4b03-8240-8da96030a4cb
+1652379977932	Marionette	INFO	Listening on port 40283
+Read port: 40283
+1652379978002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652379978992	Marionette	INFO	Stopped listening on port 39265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652380234051	geckodriver	INFO	Listening on 127.0.0.1:36247
+1652380234555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGLS0SQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652380236466	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGLS0SQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59567/devtools/browser/ce0a6a2d-10fe-41c9-964b-db26c96ae24c
+1652380237952	Marionette	INFO	Listening on port 44635
+Read port: 44635
+1652380237978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652380242801	Marionette	INFO	Stopped listening on port 40283
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652380291109	geckodriver	INFO	Listening on 127.0.0.1:55095
+1652380291616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexr8Oti"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652380293543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexr8Oti/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54637/devtools/browser/ca4464a6-ec7d-4782-b72e-a4520de734a3
+1652380295071	Marionette	INFO	Listening on port 41713
+Read port: 41713
+1652380295143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652380339918	geckodriver	INFO	Listening on 127.0.0.1:48881
+1652380340422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKsqFXm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652380342332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKsqFXm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59677/devtools/browser/b9434fb9-fb71-4f5f-be02-56071616b464
+1652380343831	Marionette	INFO	Listening on port 44249
+Read port: 44249
+1652380343949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652380348399	Marionette	INFO	Stopped listening on port 41713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652380351001	Marionette	INFO	Stopped listening on port 44635
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652380445925	geckodriver	INFO	Listening on 127.0.0.1:46713
+1652380446430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile93Sj4J"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652380448370	Marionette	INFO	Marionette enabled
+1652380448636	Marionette	INFO	Stopped listening on port 44249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile93Sj4J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33343/devtools/browser/2dd0b292-c371-4555-afac-15dce63d2ad0
+1652380449960	Marionette	INFO	Listening on port 37405
+Read port: 37405
+1652380450051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1652380495028	geckodriver	INFO	Listening on 127.0.0.1:53725
+1652380495532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewhLHjq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652380497523	Marionette	INFO	Marionette enabled
+1652380497957	Marionette	INFO	Stopped listening on port 37405
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewhLHjq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55063/devtools/browser/c4d39c7e-983b-4764-a540-cd63cc9cb996
+1652380499275	Marionette	INFO	Listening on port 45309
+Read port: 45309
+1652380499369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652380676632	Marionette	INFO	Stopped listening on port 45309
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652380679839	geckodriver	INFO	Listening on 127.0.0.1:42357
+1652380680346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCGtqcp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652380682257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCGtqcp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59109/devtools/browser/72b33447-4e4d-4e89-b82c-9780ab4b7b47
+1652380683762	Marionette	INFO	Listening on port 42847
+Read port: 42847
+1652380683871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652381143532	geckodriver	INFO	Listening on 127.0.0.1:41605
+1652381144040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNVPgAM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652381145985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNVPgAM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56165/devtools/browser/5b4cf8ce-d548-4067-9f8b-e74fb794aa83
+1652381147639	Marionette	INFO	Listening on port 34779
+Read port: 34779
+1652381147670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652381236513	geckodriver	INFO	Listening on 127.0.0.1:60713
+1652381237020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemJZdOp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652381238932	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemJZdOp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48447/devtools/browser/bbd61f62-73c4-411d-a34d-57fdef1b426f
+1652381240264	Marionette	INFO	Listening on port 40171
+Read port: 40171
+1652381240373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652381298480	geckodriver	INFO	Listening on 127.0.0.1:38475
+1652381298984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemWU0jR"
+1652381300378	Marionette	INFO	Stopped listening on port 40171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652381301009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemWU0jR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53543/devtools/browser/1e24ab3b-aa0d-4334-b1a6-cc929aa12a9d
+1652381302596	Marionette	INFO	Listening on port 44845
+Read port: 44845
+1652381302709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652381306924	Marionette	INFO	Stopped listening on port 34779
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652382054517	geckodriver	INFO	Listening on 127.0.0.1:54209
+1652382055023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5MIXMm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652382056992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5MIXMm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33361/devtools/browser/b59d4c35-10b7-4ad2-b6d3-139068bed7f6
+1652382058589	Marionette	INFO	Listening on port 43815
+Read port: 43815
+1652382058651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652382112493	geckodriver	INFO	Listening on 127.0.0.1:51589
+1652382112997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVgDtBt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652382114941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVgDtBt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54711/devtools/browser/b4bcebfd-8574-4fda-8e31-045240e29ec7
+1652382116452	Marionette	INFO	Listening on port 40949
+Read port: 40949
+1652382116524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652382119181	Marionette	INFO	Stopped listening on port 40949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652382122324	Marionette	INFO	Stopped listening on port 43815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652694861800	geckodriver	INFO	Listening on 127.0.0.1:35207
+1652694862297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXC3DLW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652694864362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXC3DLW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59739/devtools/browser/a5471200-4f0c-42a7-be35-c673d746f466
+1652694866284	Marionette	INFO	Listening on port 37149
+Read port: 37149
+1652694866328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652694982130	geckodriver	INFO	Listening on 127.0.0.1:58129
+1652694982636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyzr25a"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652694984570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyzr25a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51559/devtools/browser/e071cc55-86e5-48d3-b074-940243d13089
+1652694986220	Marionette	INFO	Listening on port 37941
+Read port: 37941
+1652694986264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652694990769	Marionette	INFO	Stopped listening on port 37941
+1652694993822	Marionette	INFO	Stopped listening on port 37149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652694999497	geckodriver	INFO	Listening on 127.0.0.1:40473
+1652695000004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenQzXq5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652695001949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenQzXq5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38205/devtools/browser/0d9a385a-8a64-4d46-9f76-b1aa77ec9354
+1652695003607	Marionette	INFO	Listening on port 33349
+Read port: 33349
+1652695003638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652695014128	geckodriver	INFO	Listening on 127.0.0.1:52983
+1652695014635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevolUBj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652695016733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevolUBj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50269/devtools/browser/d8480b4c-2762-448c-bb82-3e05432718b4
+1652695018440	Marionette	INFO	Listening on port 35757
+Read port: 35757
+1652695018484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652695018935	Marionette	INFO	Stopped listening on port 35757
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1652695019667	Marionette	INFO	Stopped listening on port 33349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652695025027	geckodriver	INFO	Listening on 127.0.0.1:38721
+1652695025533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeDn2Vs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652695027484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeDn2Vs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34205/devtools/browser/5d4bf7a9-741a-4501-8c7a-f31ac6bba86e
+1652695029043	Marionette	INFO	Listening on port 41219
+Read port: 41219
+1652695029064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652695056736	Marionette	INFO	Stopped listening on port 41219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652695140624	geckodriver	INFO	Listening on 127.0.0.1:53475
+1652695141130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNNAEQf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652695143164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNNAEQf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39851/devtools/browser/44ca542d-e277-4a0a-842e-ee867978ce36
+1652695144750	Marionette	INFO	Listening on port 44781
+Read port: 44781
+1652695144856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.airblue.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.airblue.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652705383338	Marionette	INFO	Stopped listening on port 44781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

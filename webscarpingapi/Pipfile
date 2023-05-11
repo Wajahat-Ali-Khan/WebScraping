@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+selenium = "*"
+install = "*"
+webdriver-manager = "*"
+django = "*"
+django-rest-framework = "*"
+python-dotenv = "*"
+drf-yasg = "*"
+bs4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
